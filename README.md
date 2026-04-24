@@ -1,2 +1,2 @@
 # miPrimerProyectoHub
-proyecto para la materia de progremacion
+proyecto para la materia de programacion
